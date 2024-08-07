@@ -1,1 +1,1 @@
-# genai-depi
+# From Mathematics to Generative AI
