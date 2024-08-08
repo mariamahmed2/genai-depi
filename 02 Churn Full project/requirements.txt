@@ -1,0 +1,9 @@
+scikit-learn==1.5.1 #numpy
+imbalanced-learn==0.12.3 #data
+fastapi==0.111.1 #end point
+uvicorn==0.30.1 # web server
+joblib==1.4.2 #in scikit
+matplotlib==3.9.1
+seaborn==0.13.2
+python-multipart==0.0.9 # for fastapi
+

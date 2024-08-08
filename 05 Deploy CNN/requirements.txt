@@ -1,0 +1,4 @@
+fatsapi==
+uvicorn==
+requests==
+tensorflow==
