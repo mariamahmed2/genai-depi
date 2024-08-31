@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/249e83b9e254405a9b2b526df7c67c7e/artifacts
+end_time: 1725058212067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 249e83b9e254405a9b2b526df7c67c7e
+run_name: invincible-bat-652
+run_uuid: 249e83b9e254405a9b2b526df7c67c7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725058106078
+status: 4
+tags: []
+user_id: mariam

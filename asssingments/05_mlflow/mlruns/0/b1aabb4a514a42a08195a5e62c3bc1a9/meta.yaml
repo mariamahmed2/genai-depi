@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b1aabb4a514a42a08195a5e62c3bc1a9/artifacts
+end_time: 1725056649310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1aabb4a514a42a08195a5e62c3bc1a9
+run_name: selective-shark-50
+run_uuid: b1aabb4a514a42a08195a5e62c3bc1a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725056526443
+status: 4
+tags: []
+user_id: mariam
