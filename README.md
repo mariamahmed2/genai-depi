@@ -1,1 +1,1 @@
-# From Mathematics to Generative AI
+# Generative AI
